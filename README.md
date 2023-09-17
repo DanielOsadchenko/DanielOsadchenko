@@ -1,5 +1,8 @@
 
 <div id="header" align="center">
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=435&height=86&lines=console.log(%22Hello+World!%22)" alt="Typing SVG" /></a>
+</div>
   
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="200"/>
   
@@ -16,19 +19,24 @@
     </a>
   </div>
   </br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I+am+Daniel" alt="Typing SVG" /></a>
+
+  <div align="center">
+    <h1>Hi! :vulcan_salute: My name is Danylo. I am Fullstack developer</h1>
+    <p></p>
+  </div>
+  
 
   <div align="center">
     <h2>Technilogies I know:</h2>
-    <h3>Frontend</h3>
+    <h3>Frontend :computer:</h3>
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,webpack,nextjs,mui,styledcomponents" />
   </a>
-      <h3>Backend</h3>
+      <h3>Backend :floppy_disk:</h3>
     <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-      <h3>Tools</h3>
+      <h3>Tools :hammer_and_wrench:</h3>
     <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vite,vercel,netlify,postman" />
 </p>
