@@ -1,7 +1,10 @@
 
 <div id="header" align="center">
+  
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="200"/>
+  
   <div align="center">
+  </br>
     <a href="https://www.linkedin.com/in/danylo-osadchenko/" target="_blank">
       <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdanylo-osadchenko%2F">
     </a>
@@ -12,7 +15,24 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Write%20me%20here-%23%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https%3A%2F%2Fwa.me%2F48792958508">
     </a>
   </div>
-  <h1>Hi! My name is Danylo and I am a Full Stack Developer</h1>
+  </br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I+am+Daniel" alt="Typing SVG" /></a>
+
+  <div align="center">
+    <h2>Technilogies I know:</h2>
+    <h3>Frontend</h3>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,webpack,nextjs,mui,styledcomponents" />
+  </a>
+      <h3>Backend</h3>
+    <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+      <h3>Tools</h3>
+    <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vite,vercel,netlify,postman" />
+</p>
+  </div>
 </div>
 
 
