@@ -24,14 +24,18 @@
     <h1>Hi! :vulcan_salute: My name is Danylo. I am Fullstack developer</h1>
     <p></p>
   </div>
-  
+
+  <div>
+    <h2>My portfolio:</h2>
+    <a href="https://danylo-osadchenko.vercel.app" target="_blank">https://danylo-osadchenko.vercel.app</a>
+  </div>
 
   <div align="center">
     <h2>Technilogies I know:</h2>
     <h3>Frontend :computer:</h3>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,webpack,nextjs,mui,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,webpack,nextjs,mui,styledcomponents,tailwind" />
   </a>
       <h3>Backend :floppy_disk:</h3>
     <p align="center">
